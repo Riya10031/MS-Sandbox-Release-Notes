@@ -1,6 +1,6 @@
-# Build a Proactive Customer Care Agent in a Day
+# Knowledge Navigator Agent
 
-Welcome to the **Build a Proactive Customer Care Agent in a Day** Readme.md . In this page, we will document the changes made during the last testing cycle, including updates related to the infrastructure, content, screenshots, bug fixes, and other relevant changes for the lab.
+Welcome to the **Knowledge Navigator Agent** Readme.md . In this page, we will document the changes made during the last testing cycle, including updates related to the infrastructure, content, screenshots, bug fixes, and other relevant changes for the lab.
 
 ## Overview
 This Page contains detailed notes about the latest updates and modifications made after each testing cycle. It includes:
@@ -17,9 +17,9 @@ This Page contains detailed notes about the latest updates and modifications mad
 # Release Notes
 
 <details>
-  <summary>2026-03-01</summary>
+  <summary>2026-03-04</summary>
   
-## Release Date: 2026-03-01
+## Release Date: 2026-03-04
 
 ### Summary of Changes
 
@@ -43,7 +43,7 @@ Validations are good.
 
 ### Testing Notes
 
-- **Testing Date**: 2026-03-01
+- **Testing Date**: 2026-03-04
 
 ### Testing Scope 
 
